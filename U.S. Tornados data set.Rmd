@@ -1,0 +1,42 @@
+Source: Tornadoes data set Kaggle 
+
+Data: All tornado reports for the contiguous US from 1950 to 2021
+
+Description: A brief description of this data set is the amount of tornadoes in the United States from 1950 to 2021. And the data accounts for the amount of damage, fatalities, losses, tornado size, width, and intesity.
+
+Citation: Mb. “Tornadoes Dataset.” Kaggle, 28 Oct. 2022, www.kaggle.com/datasets/michaelbryantds/tornadoes. 
+
+yr: Year
+
+mo: Month
+
+dy: Day
+
+date: Date
+
+tz: Time zone
+
+st: State
+
+stf: State FIPS Number
+
+stn: State number
+
+f: F-Scale
+
+inj: Injuries
+
+fat: Fatalities
+
+loss: Loss
+
+len: Length
+
+wid: Width
+
+elat: Ending Longitude
+
+elong:Ending Latitude
+
+
+
